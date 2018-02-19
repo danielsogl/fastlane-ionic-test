@@ -9,9 +9,6 @@ import { HomePage } from '../pages/home/home';
 })
 export class MyApp {
   rootPage: any = HomePage;
-
-  // Test
-
   constructor(
     platform: Platform,
     statusBar: StatusBar,
